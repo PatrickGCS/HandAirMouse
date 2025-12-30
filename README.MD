@@ -1,6 +1,6 @@
 # 🖱️ Hand Air Mouse (AI Gesture Control)
 
-Ferramenta de controlo de mouse via webcam utilizando Visão Computacional e Inteligência Artificial. Este projeto permite mover o cursor, clicar, fazer scroll e dar zoom utilizando apenas gestos das mãos, sem necessidade de hardware extra além de uma câmara (ou telemóvel via Iriun Webcam).
+Ferramenta de controle de mouse via webcam utilizando Visão Computacional e Inteligência Artificial. Este projeto permite mover o cursor, clicar, fazer scroll e dar zoom utilizando apenas gestos das mãos, sem necessidade de hardware extra além de uma câmara (ou telemóvel via Iriun Webcam).
 
 ## 🚀 Funcionalidades
 
