@@ -1,6 +1,6 @@
 # 🖱️ Hand Air Mouse (AI Gesture Control)
 
-Ferramenta de controlo de rato via webcam utilizando Visão Computacional e Inteligência Artificial. Este projeto permite mover o cursor, clicar, fazer scroll e dar zoom utilizando apenas gestos das mãos, sem necessidade de hardware extra além de uma câmara (ou telemóvel via Iriun Webcam).
+Ferramenta de controlo de mouse via webcam utilizando Visão Computacional e Inteligência Artificial. Este projeto permite mover o cursor, clicar, fazer scroll e dar zoom utilizando apenas gestos das mãos, sem necessidade de hardware extra além de uma câmara (ou telemóvel via Iriun Webcam).
 
 ## 🚀 Funcionalidades
 
@@ -9,7 +9,7 @@ O sistema reconhece gestos específicos para realizar ações no Windows:
 
 | Gesto                               | Ação              | Descrição Visual                                                     |
 | ------------------------------------- | --------------------- | ------------------------------------------------------------------------ |
-| **👆 Indicador Levantado**          | **Mover Rato**      | Mantenha apenas o indicador levantado. O cursor segue a ponta do dedo. |
+| **👆 Indicador Levantado**          | **Mover Mouse**      | Mantenha apenas o indicador levantado. O cursor segue a ponta do dedo. |
 | **🤏 Pinça (Indicador + Polegar)** | **Clique Esquerdo** | Aproxime a ponta do polegar com a ponta do indicador (toque rápido).  |
 | **✌️ Dois Dedos (V)**             | **Scroll Down**     | Levante o indicador e o dedo médio.                                   |
 | **🤟 Três Dedos**                  | **Scroll Up**       | Levante indicador, médio e anelar.                                    |
